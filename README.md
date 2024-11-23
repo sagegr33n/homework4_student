@@ -36,3 +36,5 @@ Then, you can see if you made an error with your git add, commit, or push comman
 
 ### _your name and UW net ID_
 Write your paragraph on the importance of the required plot elements here.
+
+When using linear regression to smooth data, there is the advantage of being able to predict missing or future data between data points. This can be very helpful when you have a lot of data without bad values, but linear regression can put you at a disadvantage if you have a lot of noisy values or many outliers. Smoothing data using the rolling method can be very helpful in showing better trends in large data sets. There are disadvantages when it comes to considering missing data, as it cannot handle NaN data and may create biased trends from bad data.
